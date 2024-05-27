@@ -1,0 +1,4 @@
+Name: Koketjo, Surname: Mothapo, Gender: Female, DOB: 2003-01-16  , Grade: 11, Roll Number: b675, Email: kay@gmail.com x
+Name: Lerato, Surname: Pitso, Gender: Male, DOB: 1999-01-25 , Grade: 12, Roll Number: b744, Email: pitso@gmail.com xName: Nkanyiso, Surname: Bhengu, Gender: Male, DOB: 1998-01-15 , Grade: 12, Roll Number: b566, Email: nka@gmail.com x
+Name: Nkanyiso, Surname: Bengu, Gender: Male, DOB: 1998-01-17 , Grade: 12, Roll Number: b533, Email: mk@gmail.com x
+Name: Zandile, Surname: Dlhomo, Gender: Non-binary, DOB: 2001-01-08  , Grade: 10, Roll Number: b881, Email: zanele@gmail.com x
